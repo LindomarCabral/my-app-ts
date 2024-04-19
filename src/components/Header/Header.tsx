@@ -1,8 +1,8 @@
+import './Header.css'
 export const Header = () =>{
   return (
-    <div>
+    <div className='header'>
       Header
-      Menu
     </div>
   )
 }
